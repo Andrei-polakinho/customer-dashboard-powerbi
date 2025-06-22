@@ -8,19 +8,19 @@ This dashboard report was developed using **Microsoft Power BI Desktop**, and it
 
 ## 📄 Project Report (PDF)
 
-📥 **[Click here to view the full dashboard PDF](https://github.com/Andrei-polakinho/customer-dashboard-powerbi)**  
+📥 [Click here to view the full dashboard PDF](Small-Project-marketing.pdf) 
 The report includes 4 interactive dashboards:
 
-1. **Customer View**  
+1. Customer View  
    Overview of customers including total count, income, education level, civil status, and purchase channels.
 
-2. **Behavioral Vision**  
+2. Behavioral Vision  
    Analysis of customer shopping habits, patterns, and behavioral segmentation.
 
-3. **Campaign Views**  
+3. Campaign Views  
    Visual breakdown of marketing campaign performance by type and audience response.
 
-4. **Sales Point Vision**  
+4. Sales Point Vision 
    Insights into physical and digital point-of-sale performance and regional metrics.
 
 ---
